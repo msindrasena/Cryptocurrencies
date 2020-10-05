@@ -16,7 +16,7 @@ Data PreProcessing Phase:
   
   The Ending Data Frame:
   
-  [!https://github.com/msindrasena/Cryptocurrencies/blob/master/challenge18.PNG]
+  [https://github.com/msindrasena/Cryptocurrencies/blob/master/challenge18.PNG]
   
 After the data Preprocessing phase, we reduced the data dimensions using PCA, clustered cryptocurrencies using K-means with an elbow curve and visualized the results with a 3D scatter plot. 
   
