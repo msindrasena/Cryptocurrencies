@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-This assignment was generated to offer an Accounting firm the ability to offer new cryptocurrencies investment portfolio for its customers. We are asked to present a report including what cryptocurrencies are in the market & how they can be grouped toward creating a classification for development. We have used unsupervised learning as there was no known output. 
+This project was completed to help an Accounting firm the ability to offer new cryptocurrencies investment portfolio for its customers. We are asked to present a report including what cryptocurrencies are in the market & how they can be grouped toward creating a classification for development. We have used unsupervised learning as there was no known output. 
 
 Data PreProcessing Phase:
 
@@ -16,5 +16,7 @@ Data PreProcessing Phase:
   
   The Ending Data Frame:
   
-  AFter the data Preprocessing phase, we reduced the data dimensions using PCA, clustered cryptocurrencies using K-means with an elbow curve and visualized the results with a 3D scatter plot. 
+  [!https://github.com/msindrasena/Cryptocurrencies/blob/master/challenge18.PNG]
+  
+After the data Preprocessing phase, we reduced the data dimensions using PCA, clustered cryptocurrencies using K-means with an elbow curve and visualized the results with a 3D scatter plot. 
   
